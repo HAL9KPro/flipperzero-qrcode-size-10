@@ -67,7 +67,7 @@ static const uint16_t NUM_RAW_DATA_MODULES[40] = {
 };
 
 // @TODO: Put other LOCK_VERSIONS here
-#elif LOCK_VERSION == 3
+#elif LOCK_VERSION == 10
 
 static const int16_t NUM_ERROR_CORRECTION_CODEWORDS[4] = {
     26, 15, 44, 36
